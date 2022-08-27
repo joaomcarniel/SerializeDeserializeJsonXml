@@ -1,0 +1,17 @@
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\JsonSerializeDeserialize.exe
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\JsonSerializeDeserialize.deps.json
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\JsonSerializeDeserialize.runtimeconfig.json
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\JsonSerializeDeserialize.dll
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\JsonSerializeDeserialize.pdb
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.AssemblyReference.cache
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.AssemblyInfoInputs.cache
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.AssemblyInfo.cs
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.CoreCompileInputs.cache
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.csproj.CopyComplete
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.dll
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\refint\JsonSerializeDeserialize.dll
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.pdb
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\JsonSerializeDeserialize.genruntimeconfig.cache
+G:\My Drive\Minhas Aulas\SerializeDeserializeJsonXml\SerializeDeserializeJsonXml\obj\Debug\net6.0\ref\JsonSerializeDeserialize.dll
